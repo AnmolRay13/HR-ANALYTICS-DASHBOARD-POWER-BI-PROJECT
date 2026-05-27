@@ -61,7 +61,7 @@ The goal of this project is to transform raw HR data into a visual and interacti
 ---
 
 ##  Author
-**Anmol Roy**
+**Anmol Ray**
 
 ### Connect With Me
 - LinkedIn: www.linkedin.com/in/anmol-ray-7176a0397
