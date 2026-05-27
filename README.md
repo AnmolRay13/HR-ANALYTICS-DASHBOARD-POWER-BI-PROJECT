@@ -28,10 +28,12 @@ The goal of this project is to transform raw HR data into a visual and interacti
 
 ---
 
-## Dashboard Features
-- Interactive and dynamic visuals
-- Department-wise filtering using Slicer (HR, R&D, Sales)
-- Multiple charts for deep insights
+## Key Features
+- Employee Attrition Analysis
+- Salary & Experience Insights
+- Department-wise Filtering using Slicer
+- Interactive Visualizations & KPIs
+- Dynamic Dashboard Design
 
 ---
 
